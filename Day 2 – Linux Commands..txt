@@ -1,0 +1,5 @@
+mkdir test
+touch file.txt
+rm file.txt
+cp file1 file2
+mv file1 file2
